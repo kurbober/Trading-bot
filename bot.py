@@ -1,4 +1,4 @@
-import cbpro
+import coinbase_pro as cbpro
 import time
 import pandas as pd
 
